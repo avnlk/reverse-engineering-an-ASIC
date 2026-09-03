@@ -1,3 +1,3 @@
 # reverse-engineering-an-ASIC
 
->comeback later
+>comeback late; after 4th september EOD
