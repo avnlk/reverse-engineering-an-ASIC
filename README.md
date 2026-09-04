@@ -1,6 +1,6 @@
 # reverse-engineering-an-ASIC
 
->comeback late; 
+>comeback later; 
 
 
->you can read it here after 4th September EOD : https://avnlk.github.io/reverse-engineering-an-ASIC.html
+>you can read it here after 5th September 2:00AM : https://avnlk.github.io/reverse-engineering-an-ASIC.html
